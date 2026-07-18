@@ -1,0 +1,6 @@
+{
+  "name": "Salão BellaVita",
+  "description": "Agende serviços de beleza, conheça profissionais e receba dicas de autocuidado com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
